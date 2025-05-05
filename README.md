@@ -26,7 +26,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atesham&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
