@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Flutter, Firebase, React, and Blockchain projects**
 - 🌱 I’m learning **Solidity, TypeScript, and Web3 integration**
 - 💬 Ask me about **mobile app development, Firebase, or smart contracts**
-- 📫 How to reach me: [Email](mailto:ateshamali0@example.com) 
+- 📫 How to reach me: [Email](mailto:ateshamali0@gmail.com) 
 ---
 
 ### 🛠️ Technologies & Tools
@@ -50,7 +50,6 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
+  <a href="mailto:ateshamali0@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Atesham"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
 </p>
