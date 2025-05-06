@@ -11,14 +11,13 @@
 - 🔭 I’m currently working on **Flutter, Firebase, React, and Blockchain projects**
 - 🌱 I’m learning **Solidity, TypeScript, and Web3 integration**
 - 💬 Ask me about **mobile app development, Firebase, or smart contracts**
-- 📫 How to reach me: [Email](mailto:yourname@example.com) | [LinkedIn](https://linkedin.com/in/yourname)
-
+- 📫 How to reach me: [Email](mailto:ateshamali0@example.com) 
 ---
 
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,react,typescript,html,css,js,java,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,react,typescript,html,css,js,java,python,git,github,vscode,soliddity" />
 </p>
 
 ---
@@ -34,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atesham&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atesham&theme=radical" />
 </p>
 
