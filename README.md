@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Flutter, Firebase, React, and Blockchain projects**
-- 🌱 I’m learning **Solidity, TypeScript, and Web3 integration**
+- 🌱 I’m have strong knowledge of **Solidity, TypeScript, Flutter and Web3 integration**
 - 💬 Ask me about **mobile app development, Firebase, or smart contracts**
 - 📫 How to reach me: [Email](mailto:ateshamali0@gmail.com) 
 ---
